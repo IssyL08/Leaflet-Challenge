@@ -1,3 +1,5 @@
+Homework on showing the Geological survey using custom resentations to allow a better representation of the data for the viewer.
+
 # Leaflet Homework - Visualizing Data with Leaflet
 
 ## Background
