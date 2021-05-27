@@ -152,7 +152,7 @@
    L.control.layers(baseMaps, overlayMaps, {
      collapsed: false
    }).addTo(myMap);
-   // add the lagend to the map
+   // add the legend to the map
    legend.addTo(myMap);
 
  }
