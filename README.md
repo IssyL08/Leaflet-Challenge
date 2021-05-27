@@ -1,4 +1,4 @@
-Homework on showing the Geological survey using custom resentations to allow a better representation of the data for the viewer.
+Data visualization showing the Geological survey using custom presentations.  There are two different data visualizations available.  The basic version is in the "Level 1: Basic Visualization" and a more interesting vizualization is available in the folder "Level 2: More Data
 
 # Leaflet Homework - Visualizing Data with Leaflet
 
