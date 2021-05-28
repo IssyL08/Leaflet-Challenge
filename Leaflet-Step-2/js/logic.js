@@ -1,15 +1,15 @@
 // Selectable backgrounds of our map - tile layers:
 // grayscale background.
 var graymap_background = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?" +
-  "access_token={accessToken}");
+  "access_token=pk.eyJ1IjoiaXNzeWwiLCJhIjoiY2tvdWw4dHpiMGozZjMxbzF2b2N5d2U5MyJ9.w6kSDD2ky_XDHhi3YIJzOg");
 
 // satellite background.
 var satellitemap_background = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v9/tiles/256/{z}/{x}/{y}?" +
-  "access_token={accessToken}");
+  "access_token=pk.eyJ1IjoiaXNzeWwiLCJhIjoiY2tvdWw4dHpiMGozZjMxbzF2b2N5d2U5MyJ9.w6kSDD2ky_XDHhi3YIJzOg");
 
 // outdoors background.
 var outdoors_background = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/outdoors-v9/tiles/256/{z}/{x}/{y}?" +
-  "access_token={accessToken}");
+  "access_token=pk.eyJ1IjoiaXNzeWwiLCJhIjoiY2tvdWw4dHpiMGozZjMxbzF2b2N5d2U5MyJ9.w6kSDD2ky_XDHhi3YIJzOg");
 
 // map object to an array of layers we created.
 var map = L.map("mapid", {
